@@ -1,1 +1,0 @@
-# GOF - Gang of Four
